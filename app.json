@@ -1,0 +1,18 @@
+{
+    "name": "VRay2",
+    "description": "Deploy VRay2 on Heroku.",
+    "keywords": ["VRay2"],
+    "env": {
+        "UUID": {
+            "description": "V2Ray UUID",
+            "value": "9eb579ab-9285-48bc-9fa0-d4c2742de7d3"
+        },
+        "DoH": {
+            "description": "Enable DoH to protect your DNS queries",
+            "value": "false"
+        }
+    },
+    "website": "https://github.com/luserose256/vr2ay-vssles",
+    "repository": "https://github.com/luserose256/vr2ay-vssles",
+    "stack": "container"
+}
