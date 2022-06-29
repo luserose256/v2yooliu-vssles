@@ -5,14 +5,14 @@
     "env": {
         "UUID": {
             "description": "V2Ray UUID",
-            "value": "9eb579ab-9285-48bc-9fa0-d4c2742de7d3"
+            "value": "771d1dea-ca50-4ae4-a34f-42161859d924"
         },
         "DoH": {
             "description": "Enable DoH to protect your DNS queries",
             "value": "false"
         }
     },
-    "website": "https://github.com/luserose256/vr2ay-vssles",
+    "website": "https://github.com/luserose256/v2yooliu-vssles",
     "repository": "",
     "stack": "container"
 }
