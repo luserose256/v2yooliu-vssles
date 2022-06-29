@@ -1,13 +1,13 @@
 # Faster V2Ray Heroku App Image
-[![Docker Pulls](https://img.shields.io/docker/pulls/luserose256/vr2ay-vssles.svg?style=flat-square&label=Pulls&logo=docker&color=green)](https://hub.docker.com/r/luserose256/vr2ay-vssles)
-[![Docker Version](https://img.shields.io/docker/v/luserose256/vr2ay-vssles?sort=date&style=flat-square&label=Version&logo=docker&color=blue)](https://hub.docker.com/r/luserose256/vr2ay-vssles)
+[![Docker Pulls](https://img.shields.io/docker/pulls/luserose256/v2yooliu-vssles.svg?style=flat-square&label=Pulls&logo=docker&color=green)](https://hub.docker.com/r/luserose256/v2yooliu-vssles)
+[![Docker Version](https://img.shields.io/docker/v/luserose256/v2yooliu-vssles?sort=date&style=flat-square&label=Version&logo=docker&color=blue)](https://hub.docker.com/r/luserose256/v2yooliu-vssles)
 ![Deploys](https://img.shields.io/endpoint?url=https%3a%2f%2fstats.mideuu.tk%2fbadge)
-[![Join the chat at https://gitter.im/luserose256/vr2ay-vssles](https://img.shields.io/gitter/room/luserose256/vr2ay-vssles?style=flat-square&color=9cf&label=Chat)](https://gitter.im/luserose256/vr2ay-vssles)
+[![Join the chat at https://gitter.im/luserose256/vr2ay-vssles](https://img.shields.io/gitter/room/luserose256/v2yooliu-vssles?style=flat-square&color=9cf&label=Chat)](https://gitter.im/luserose256/v2yooliu-vssles)
 [![Chat on discord](https://img.shields.io/discord/852170555855732756?color=9cf&label=Discord&style=flat-square)](https://discord.gg/W7gwgsYZG5)
 
 This repo builds v2ray docker image for heroku app and helps you deploy it.
 
-[中文文档](https://github.com/luserose256/vr2ay-vssles/blob/main/README_ZH.md)
+[中文文档](https://github.com/luserose256/v2yooliu-vssles/blob/main/README_ZH.md)
 
 ## Attention
 Free heroku app is overwhelmed and hence become slower over the time, please treat it with kid gloves. Stop being a Yang Mao Dang! Consider turning to a paid proxy service if you want a better user experience.
@@ -44,7 +44,7 @@ Please find v2ray config files in the repo. `config.json.server` is used by hero
 ## Security and Privacy
 1. All stuffs here are open sourced, you can check them line by line.
 2. V2ray is downloaded from the its offical github release page.
-3. You can check the SHA digest of the images in the [building results](https://github.com/luserose256/vr2ay-vssles/actions) and the docker image digest in the [docker hub](https://hub.docker.com/r/luserose256/vr2ay-vssles/tags) (Digest changes even with the same building stuffs for different docker image buildings).
+3. You can check the SHA digest of the images in the [building results](https://github.com/luserose256/v2yooliu-vssles/actions) and the docker image digest in the [docker hub](https://hub.docker.com/r/luserose256/v2yooliu-vssles/tags) (Digest changes even with the same building stuffs for different docker image buildings).
 4. You can further check the building steps of a docker image in the docker hub.
 5. If you are still not convinced, you can fork the repositary, build the image by yourself and deploy it.
 
